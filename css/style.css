@@ -1,0 +1,38 @@
+/*dit bepaald de stijl voor elke pagina*/
+*{
+padding: 0px;
+margin: 0px;
+box-sizing: border-box;
+background-color:rgba(205, 198, 165, 1);
+}
+
+header{
+    background-color: rgba(111, 146, 131, 1);
+}
+
+.kas-van-lieverloo{
+
+}
+
+.me-image-nav{
+
+}
+
+nav{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background-color: ;
+}
+
+.nav-links{
+    display: flex;
+    background-color: ;
+}
+
+
+footer{
+    width: 100vw;
+    height: ;
+    background-color: rgba(111, 146, 131, 1);
+}
